@@ -2,6 +2,7 @@
 JavaFx example project
 Open JDK 14.0.1;
 Java FX 14.0.1;
+project name is SOMETHING
 vm args - --module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml ;
 IntelliJ IDEA;
 compilance level 8;
