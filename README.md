@@ -1,4 +1,4 @@
-# -alculator_v2
+# Calculator_v2
 JavaFx example project
 Open JDK 14.0.1
 Java FX 14.0.1
